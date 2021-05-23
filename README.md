@@ -1,6 +1,7 @@
 # plugin.program.executable.methods
 \
-A small program to test the use of kodi builtin methods and functions:\ 
+###### A small program to test the use of kodi builtin methods and functions.
+\ 
 `xbmc.executebuiltin(function)`\
 `xbmc.executeJSONRPC(jsonrpccommand)`\
 `xbmc.executescript(script)`\
