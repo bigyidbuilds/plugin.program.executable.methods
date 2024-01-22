@@ -14,7 +14,10 @@ xbmc.getInfoLabel('infolabel')
 """
 
 Myindex =      [
-				{'title':'DailyMotion','function':'xbmc.executebuiltin','runcmd':'RunAddon(plugin.video.dailymotion_com,mode=sortVideos1&url=owner:Tv-Soap)'}
+				{'title':'DailyMotion',
+				'function':'xbmc.executebuiltin',
+				'runcmd':'RunAddon(plugin.video.dailymotion_com,mode=sortVideos1&url=owner:Tv-Soap)'
+				}
 				]
 
 Exampleindex = [
